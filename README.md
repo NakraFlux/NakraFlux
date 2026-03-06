@@ -11,14 +11,14 @@
 ### This GitHub is my little playground where I'll be learning, experimenting, breaking things, and slowly getting better.
 
 ## currently exploring:
-     ## linux
-     ## programming
-     ## Networking basics
-     ## Cybersecurity basics
+     - linux
+     - programming
+     - Networking basics
+     - Cybersecurity basics
 
 
 
 
-
+####"The question is the beginning of the wisdom."
 
 
