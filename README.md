@@ -1,16 +1,24 @@
-## Hi there 👋
+#Hi, I am Nakra 👋
 
-<!--
-**NakraFlux/NakraFlux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 20 years  
+## curious mind 
+## beginner explorer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I just stepped into the huge world of programming and cybersecurity.
+
+### Right now I'm basically a tiny chick 🐥 trying to understand how computers, networks, and systems actually work.
+### This GitHub is my little playground where I'll be learning, experimenting, breaking things, and slowly getting better.
+
+##currently exploring:
+     ## linux
+     ## programming
+     ## Networking basics
+     ## Cybersecurity basics
+
+
+
+
+
+
+
