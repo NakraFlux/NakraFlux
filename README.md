@@ -19,7 +19,7 @@
       - cat person
       - I enjoy writing and exploring  ideas
 
-## for a long time i was just drifting and being lazy.nNow I'm back ...learning, explorinng, and building things again.
+### for a long time i was just drifting and being lazy.nNow I'm back ...learning, explorinng, and building things again.
 
 
 
