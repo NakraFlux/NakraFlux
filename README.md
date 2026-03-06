@@ -1,9 +1,7 @@
 # Hi, I am Nakra 👋
 
 
-## 20 years  
-## curious mind 
-## beginner explorer
+## - 20 years  - curious mind  - beginner explorer
 
 ### I just stepped into the huge world of programming and cybersecurity.
 
@@ -15,6 +13,14 @@
      - programming
      - Networking basics
      - Cybersecurity basics
+
+## A bit about me
+      - INTP personality type
+      - cat person
+      - I enjoy writing and exploring  ideas
+
+## for a long time i was just drifting and being lazy.nNow I'm back ...learning, explorinng, and building things again.
+
 
 
 
