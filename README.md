@@ -1,4 +1,4 @@
-#Hi, I am Nakra 👋
+# Hi, I am Nakra 👋
 
 
 ## 20 years  
@@ -10,7 +10,7 @@
 ### Right now I'm basically a tiny chick 🐥 trying to understand how computers, networks, and systems actually work.
 ### This GitHub is my little playground where I'll be learning, experimenting, breaking things, and slowly getting better.
 
-##currently exploring:
+## currently exploring:
      ## linux
      ## programming
      ## Networking basics
